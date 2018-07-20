@@ -10,7 +10,7 @@
   "license": "ISC",
   "devDependencies": {
     "webduino-bit-module-button": "^0.1.1",
-    "webduino-bit-module-led-matrix": "^0.1.2",
+    "webduino-bit-module-led-matrix": "git+https://github.com/webduinoio/webduino-bit-module-led-matrix.git#8cc7dc18f841b952591d47fa52f9ecfa426c2467",
     "webduino-js": "^0.4.25"
   }
 }
